@@ -1,0 +1,14 @@
+/* Signup component styles */
+.card{
+  max-width:420px;
+  margin:48px auto;
+  padding:20px;
+  border-radius:8px;
+  background:#ffffff;
+  box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  color:#222;
+}
+.card h2{margin:0 0 12px}
+.card input,.card select{display:block;width:100%;padding:10px;margin:8px 0;border:1px solid #ddd;border-radius:6px}
+.card button{margin-top:12px;background:#007bff;color:#fff;border:none;padding:10px 14px;border-radius:6px;cursor:pointer}
+.card p{margin-top:12px;color:#007bff;cursor:pointer}
